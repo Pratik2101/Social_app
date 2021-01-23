@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "414887477100",
+    "project_id": "social-media-app-d3fe9",
+    "storage_bucket": "social-media-app-d3fe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414887477100:android:10693fd2626a72c8883d49",
+        "android_client_info": {
+          "package_name": "com.shivtej.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414887477100-79dleiueh4d46usdo0g7hjn3bh1svf3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7e59CFZNbxqAfN7QazXjbGrRI0gj_wUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414887477100-79dleiueh4d46usdo0g7hjn3bh1svf3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414887477100:android:b17cf4c1552d853c883d49",
+        "android_client_info": {
+          "package_name": "com.technogeek.socialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414887477100-79dleiueh4d46usdo0g7hjn3bh1svf3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7e59CFZNbxqAfN7QazXjbGrRI0gj_wUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414887477100-79dleiueh4d46usdo0g7hjn3bh1svf3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
